@@ -4,4 +4,4 @@ seaborn
 pandas
 numpy
 joblib
-LinearRegression
+scikit-learn
